@@ -1,0 +1,28 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+body{
+    background-color: yellow;
+}
+#btnDecrease{
+    height: 70px;
+    width: 50px;
+    font-size: 50px;
+
+    background-color: red;
+
+}
+#btnIncrease{
+    height: 70px;
+    width: 50px;
+    font-size: 50px;
+
+    background-color: red;
+
+}
+h1{
+    font-size: 50px;
+}
